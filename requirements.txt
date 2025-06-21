@@ -1,0 +1,7 @@
+gTTS
+moviepy==1.0.3
+Pillow==9.5.0
+numpy
+requests
+pandas
+openpyxl
