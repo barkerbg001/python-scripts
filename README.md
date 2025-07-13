@@ -10,6 +10,7 @@ Welcome to the **Python Scripts Repository**! This collection is a central hub f
 |-------------------|-------------------------------------------------------|----------------------------|---------------------------------|
 | `reverse_string`  | A basic utility to reverse any string input.          | None                       | [reverse_string](./reverse_string) |
 | `short_generator` | Generates short-form content/videos with logging.     | `moviepy`, `openpyxl` | [short_generator](./short_generator) |
+| `pi_dispenser` | A high-speed Python script that calculates any number of Pi digits..     | `gmpy2` | [pi_dispenser](./pi_dispenser) |
 
 ---
 
